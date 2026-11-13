@@ -1,0 +1,21 @@
+file,expected_name,expected_amount,expected_type,note
+tts01.wav,Suresh,250,credit,"te-IN voice=default: సురేష్, రెండు వందల యాభై, బియ్యం"
+tts02.wav,Ramesh,100,payment,te-IN voice=default: రమేష్ వంద రూపాయలు కట్టాడు
+tts03.wav,Lakshmi,500,credit,"te-IN voice=default: లక్ష్మి కి ఐదు వందలు రాసుకో, నూనె"
+tts04.wav,Venkat,1000,payment,te-IN voice=default: వెంకట్ వెయ్యి రూపాయలు ఇచ్చాడు
+tts05.wav,Srinu,320,credit,"te-IN voice=default: శ్రీను, మూడు వందల ఇరవై, పాలు బ్రెడ్"
+tts06.wav,Suresh,200,unknown,te-IN voice=default: సురేష్ రెండు వందలు
+tts07.wav,Manjunath,250,credit,"kn-IN voice=default: ಮಂಜುನಾಥ್, ಇನ್ನೂರ ಐವತ್ತು, ಅಕ್ಕಿ"
+tts08.wav,Ravi,1000,payment,kn-IN voice=default: ರವಿ ಸಾವಿರ ರೂಪಾಯಿ ಕೊಟ್ಟಿದ್ದಾರೆ
+tts09.wav,Geetha,400,credit,"kn-IN voice=default: ಗೀತಾ ಅವರಿಗೆ ನಾನೂರು ರೂಪಾಯಿ ಬಾಕಿ ಬರೆದುಕೊಳ್ಳಿ, ಎಣ್ಣೆ"
+tts10.wav,Prakash,500,payment,kn-IN voice=default: ಪ್ರಕಾಶ್ ಐನೂರು ರೂಪಾಯಿ ಕೊಟ್ಟರು
+tts11.wav,Sunil,500,credit,"hi-IN voice=default: सुनील के नाम पांच सौ लिख दो, चावल"
+tts12.wav,Rajesh,200,payment,hi-IN voice=default: राजेश ने दो सौ रुपये दिए
+tts13.wav,Anita,250,credit,"hi-IN voice=default: अनीता, ढाई सौ, दूध और अंडे"
+tts14.wav,Mohan,1000,payment,hi-IN voice=default: मोहन ने हज़ार रुपये जमा किए
+tts15.wav,Vikram,600,credit,hi-IN voice=default: विक्रम का छह सौ उधार लिख दो
+tts16.wav,Ramesh,150,payment,en-IN voice=default: Ramesh paid one hundred and fifty rupees
+tts17.wav,Kiran,300,credit,"en-IN voice=default: Kiran, three hundred, rice and dal"
+tts18.wav,Priya,450,credit,"en-IN voice=default: Write four hundred and fifty for Priya, soap and oil"
+tts19.wav,Arjun,2000,payment,en-IN voice=default: Arjun gave back two thousand rupees
+tts20.wav,Deepa,80,credit,en-IN voice=default: Deepa took bread and eggs for eighty rupees
